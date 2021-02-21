@@ -1,24 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a263d2b.chunk.css",
-    "main.js": "/static/js/main.822a6d49.chunk.js",
-    "main.js.map": "/static/js/main.822a6d49.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dbc15e08.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dbc15e08.js.map",
+    "main.css": "/static/css/main.5a275167.chunk.css",
+    "main.js": "/static/js/main.fdb9e5aa.chunk.js",
+    "main.js.map": "/static/js/main.fdb9e5aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5835b704.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5835b704.js.map",
     "static/js/2.aa6b358a.chunk.js": "/static/js/2.aa6b358a.chunk.js",
     "static/js/2.aa6b358a.chunk.js.map": "/static/js/2.aa6b358a.chunk.js.map",
-    "static/js/3.68269546.chunk.js": "/static/js/3.68269546.chunk.js",
-    "static/js/3.68269546.chunk.js.map": "/static/js/3.68269546.chunk.js.map",
+    "static/js/3.ae10d434.chunk.js": "/static/js/3.ae10d434.chunk.js",
+    "static/js/3.ae10d434.chunk.js.map": "/static/js/3.ae10d434.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1a263d2b.chunk.css.map": "/static/css/main.1a263d2b.chunk.css.map",
+    "static/css/main.5a275167.chunk.css.map": "/static/css/main.5a275167.chunk.css.map",
     "static/js/2.aa6b358a.chunk.js.LICENSE.txt": "/static/js/2.aa6b358a.chunk.js.LICENSE.txt",
     "static/media/Typography.css": "/static/media/AGENCYB.8ea49f04.TTF",
-    "static/media/cahaba_logo.9423333b.jpg": "/static/media/cahaba_logo.9423333b.jpg"
+    "static/media/cahaba_logo.9423333b.jpg": "/static/media/cahaba_logo.9423333b.jpg",
+    "static/media/chase_buckalew_200x200.1f9ac69b.png": "/static/media/chase_buckalew_200x200.1f9ac69b.png",
+    "static/media/connor_wann_500x500.b2931fca.png": "/static/media/connor_wann_500x500.b2931fca.png",
+    "static/media/ethan_mines_500x500.f52eae8f.png": "/static/media/ethan_mines_500x500.f52eae8f.png",
+    "static/media/geoffrey_tum_500x500.26a3ff8f.png": "/static/media/geoffrey_tum_500x500.26a3ff8f.png",
+    "static/media/gladys_cheboi_500x500.7c7775c5.png": "/static/media/gladys_cheboi_500x500.7c7775c5.png",
+    "static/media/john_goodman_400x400.9a1d6c72.png": "/static/media/john_goodman_400x400.9a1d6c72.png",
+    "static/media/jordan_carrington_500x500.ef1dca6f.png": "/static/media/jordan_carrington_500x500.ef1dca6f.png",
+    "static/media/jordan_pouche_500x500.8233ac5d.png": "/static/media/jordan_pouche_500x500.8233ac5d.png",
+    "static/media/josh_evans_500x500.0f46daa2.png": "/static/media/josh_evans_500x500.0f46daa2.png",
+    "static/media/kile_putman_500x500.2199b96e.png": "/static/media/kile_putman_500x500.2199b96e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbc15e08.js",
+    "static/js/runtime-main.5835b704.js",
     "static/js/2.aa6b358a.chunk.js",
-    "static/css/main.1a263d2b.chunk.css",
-    "static/js/main.822a6d49.chunk.js"
+    "static/css/main.5a275167.chunk.css",
+    "static/js/main.fdb9e5aa.chunk.js"
   ]
 }
