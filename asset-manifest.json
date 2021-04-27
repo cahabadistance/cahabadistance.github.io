@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b825ec49.chunk.css",
-    "main.js": "/static/js/main.e65befe8.chunk.js",
-    "main.js.map": "/static/js/main.e65befe8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b7d6fb1f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b7d6fb1f.js.map",
+    "main.css": "/static/css/main.87a17fe1.chunk.css",
+    "main.js": "/static/js/main.d7305b61.chunk.js",
+    "main.js.map": "/static/js/main.d7305b61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed2e953b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed2e953b.js.map",
     "static/js/2.e0a3850d.chunk.js": "/static/js/2.e0a3850d.chunk.js",
     "static/js/2.e0a3850d.chunk.js.map": "/static/js/2.e0a3850d.chunk.js.map",
-    "static/js/3.9b0da693.chunk.js": "/static/js/3.9b0da693.chunk.js",
-    "static/js/3.9b0da693.chunk.js.map": "/static/js/3.9b0da693.chunk.js.map",
+    "static/js/3.712964a2.chunk.js": "/static/js/3.712964a2.chunk.js",
+    "static/js/3.712964a2.chunk.js.map": "/static/js/3.712964a2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b825ec49.chunk.css.map": "/static/css/main.b825ec49.chunk.css.map",
+    "static/css/main.87a17fe1.chunk.css.map": "/static/css/main.87a17fe1.chunk.css.map",
     "static/js/2.e0a3850d.chunk.js.LICENSE.txt": "/static/js/2.e0a3850d.chunk.js.LICENSE.txt",
     "static/media/Typography.css": "/static/media/AGENCYB.8ea49f04.TTF",
     "static/media/alex_shah_500x500.ab94fe10.png": "/static/media/alex_shah_500x500.ab94fe10.png",
     "static/media/chase_buckalew_200x200.1f9ac69b.png": "/static/media/chase_buckalew_200x200.1f9ac69b.png",
     "static/media/connor_wann_500x500.b2931fca.png": "/static/media/connor_wann_500x500.b2931fca.png",
     "static/media/ethan_mines_500x500.f52eae8f.png": "/static/media/ethan_mines_500x500.f52eae8f.png",
+    "static/media/ew_logo.68e33808.jpg": "/static/media/ew_logo.68e33808.jpg",
     "static/media/geoffrey_tum_500x500.26a3ff8f.png": "/static/media/geoffrey_tum_500x500.26a3ff8f.png",
     "static/media/gladys_cheboi_500x500.7c7775c5.png": "/static/media/gladys_cheboi_500x500.7c7775c5.png",
     "static/media/john_goodman_400x400.9a1d6c72.png": "/static/media/john_goodman_400x400.9a1d6c72.png",
@@ -26,9 +27,9 @@
     "static/media/trak_shak_logo.45264796.jpg": "/static/media/trak_shak_logo.45264796.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7d6fb1f.js",
+    "static/js/runtime-main.ed2e953b.js",
     "static/js/2.e0a3850d.chunk.js",
-    "static/css/main.b825ec49.chunk.css",
-    "static/js/main.e65befe8.chunk.js"
+    "static/css/main.87a17fe1.chunk.css",
+    "static/js/main.d7305b61.chunk.js"
   ]
 }
