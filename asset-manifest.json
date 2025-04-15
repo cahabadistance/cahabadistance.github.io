@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.852251fa.chunk.css",
-    "main.js": "/static/js/main.6049ef51.chunk.js",
-    "main.js.map": "/static/js/main.6049ef51.chunk.js.map",
+    "main.css": "/static/css/main.baa6ec11.chunk.css",
+    "main.js": "/static/js/main.538c93ed.chunk.js",
+    "main.js.map": "/static/js/main.538c93ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.66eba3bd.js",
     "runtime-main.js.map": "/static/js/runtime-main.66eba3bd.js.map",
     "static/js/2.14c472b8.chunk.js": "/static/js/2.14c472b8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e9e0b79d.chunk.js": "/static/js/3.e9e0b79d.chunk.js",
     "static/js/3.e9e0b79d.chunk.js.map": "/static/js/3.e9e0b79d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.852251fa.chunk.css.map": "/static/css/main.852251fa.chunk.css.map",
+    "static/css/main.baa6ec11.chunk.css.map": "/static/css/main.baa6ec11.chunk.css.map",
     "static/js/2.14c472b8.chunk.js.LICENSE.txt": "/static/js/2.14c472b8.chunk.js.LICENSE.txt",
     "static/media/Typography.css": "/static/media/AGENCYB.8ea49f04.TTF",
     "static/media/ew_logo.68e33808.jpg": "/static/media/ew_logo.68e33808.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.66eba3bd.js",
     "static/js/2.14c472b8.chunk.js",
-    "static/css/main.852251fa.chunk.css",
-    "static/js/main.6049ef51.chunk.js"
+    "static/css/main.baa6ec11.chunk.css",
+    "static/js/main.538c93ed.chunk.js"
   ]
 }
